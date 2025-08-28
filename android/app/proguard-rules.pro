@@ -1,0 +1,1 @@
+-keep class com.ay_trade.userapp.BuildConfig { *; }
